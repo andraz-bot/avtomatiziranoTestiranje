@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Test reports and results
+reports/
+playwright-report/
+test-results/
+screens/
+
+# IDE files
+.idea/
+.vscode/

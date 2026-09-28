@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "Authorization",
+      "value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJodHRwczovL2F1dGguZy10ZXN0LmVwcm9zdG9yLnNpOjQ0My9waXMtYXV0aC9hdXRoL3Rva2Vucy9hdXRob3JpemUiLCJzdWIiOiI5eGNkNzdiZ0g0UE9FZjZGbllseXN0MHdpeEFaWWVJRExyZHFPUlpveFpHL3FLQ3NaOE1Ycnp1U0VyWDkrZmFUIiwiYXVkIjoiaHR0cHM6Ly9hdXRoLmctdGVzdC5lcHJvc3Rvci5zaTo0NDMvcGlzLWF1dGgvYXV0aC90b2tlbnMvYXV0aG9yaXplIiwiZXhwIjoxNzkwMDIzNTIxLCJ1c2VyX2lkIjo3NjMsInVzZXJfdXVpZCI6Ijl4Y2Q3N2JnSDRQT0VmNkZuWWx5c3Qwd2l4QVpZZUlETHJkcU9SWm94WkcvcUtDc1o4TVhyenVTRXJYOStmYVQiLCJ1c2VyX2VtYWlsIjoiaWdlYUB0ZXN0LnNpIiwidXNlcl9pbWUiOiJJZ2VhIEFkbWluIiwidXNlcl9wcmlpbWVrIjoiVXByYXZuaSBBa3RpIiwic2lzdGVtc2tpX3Vwb3JhYm5payI6ZmFsc2UsIm9yZ19pZCI6MTAwLCJvcmdfbWF0aWNuYSI6IjI0ODI3ODkwMDAiLCJvcmdfbmF6aXYiOiJNaW5pc3Ryc3R2byB6YSBva29samUgaW4gcHJvc3RvciIsInZsb2dlIjp7IlNLUkJOSUtfWkJJUktFX1VQUkFWTklIX0FLVE9WIjpbXSwiU0tSQk5JS19aQklSS0VfVVBSQVZOSUhfQUtUT1ZfQURNSU4iOltdfX0.VSmNSwEGfMjItjfEY5FWdCs8DdXm7MnVRKqreFdMGfBfJ0LpGonksecCSc577M5EGYPZAj6YBcXGfFez5bTTKw",
+      "domain": ".pis.intra.igea.si",
+      "path": "/pis-ua",
+      "expires": 1789998320.914197,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "node0itsy1bucpmrk1uwre6lr5uc9z3680.node0",
+      "domain": "sicas-test.src.si",
+      "path": "/idp",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shib_idp_session",
+      "value": "b563762b5768770b984e43464ffde28c3c7fc4dd620cda85452d677acd0b5516",
+      "domain": "sicas-test.src.si",
+      "path": "/idp",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shibsession_64656661756c74504e474f5f5254555f415554485f474f56",
+      "value": "_0524bdf72abc7e395dc4eb9bfb7a505d",
+      "domain": "auth.g-test.eprostor.si",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "qo7D_-C9HAAgYSppqT1zGRY0zrUQOOGY0aHHneJsGuwi9wGhzqMI!-971648773",
+      "domain": "pis.intra.igea.si",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://sicas-test.src.si",
+      "localStorage": [
+        {
+          "name": "shib_idp_session_ss",
+          "value": "AAdzZWNyZXQxqot5gkjlXIGQ4pOFr/YLTGMCH9VL0W4QJuijrGSz6GukbFW/nJX8afvImp6LeT3G4RIn9++qq3yjMRnOd1DWo0qA9FTDVtht01nzGgEPQtf4qgD0doZ7jLgQWkOY21sjglKQtmDyZF58Zff+mA92zPkqt1Abm/1BjRM5/BpKoxkh9C8/lXtGIrfYUXZr3sYlfEqGtdvQgHkPhAP6JW8M9O0U2eCNXSTi7dyWpMVsl5UJwJdOIbaIsgBGtkNK8NRPGanTJLj0X8PNZM5Z3ZBMnTWeda0eDhQesTnFNCuMDG1CZ+GzoVlpI6ZgkovBesgydKKV6o2NbHrbsiXIdzhlkKicyJTFNZXOi7NiLoZ82QkKNPLsqAgfgjkvxfC1QM2ICn92q1rsNd371NQc5RkZItA2vBiEU/49oCnTgWlKoXUMjcgSH/R8MpTmrjFFYatUSMMVtN5DpRTYi4BNU5kXp8/UKoAXqSwrf/SqwHUGnkEuiXFrzTjQfH2/9n27tFP3Rh5DB4r/B6G/RA9ctwU1RKa/i7swDEeoUD5JkmCNS6n8GqbXuBH7/1JK8f4bYRIZCiqgVjHiuSQ6tgENbvLsibVCPzdf5SBFAdTYgra5Lld5JPkFAhFhM8E8pO3RASE5hyPM7XWLXYsayX8pvR3R9nrPAAempe30JY6DFU8An2HuJLGf/ouyemOjiNqAOciuD94JqXyZr1NMMzEJq2nvfrDn0dpqGTBAkuPrOQQ5Y4toMzq5s2yKtqfXGjUff4/Wcj5kXgviefya/nWKeX2IzpGtLahdd3nuVw=="
+        }
+      ]
+    }
+  ]
+}
